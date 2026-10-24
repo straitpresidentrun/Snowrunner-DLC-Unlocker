@@ -13,24 +13,66 @@ An all-in one tool that automatically unlocks, downloads and activates DLCs in *
 
 # 🎮 Supported Content
 
-## Base Game
+# SnowRunner DLC Checklist
 
-- SnowRunner
+## Season Expansions
 
-## Official Season & Year Passes
+- [ ] Season 1: Search & Recover
+- [ ] Season 2: Explore & Expand
+- [ ] Season 3: Locate & Deliver
+- [ ] Season 4: New Frontiers
+- [ ] Season 5: Build & Dispatch
+- [ ] Season 6: Haul & Hustle
+- [ ] Season 7: Compete & Conquer
+- [ ] Season 8: Grand Harvest
+- [ ] Season 9: Renew & Rebuild
+- [ ] Season 10: Fix & Connect
+- [ ] Season 11: Lights & Cameras
+- [ ] Season 12: Public Energy
+- [ ] Season 13: Dig & Drill
+- [ ] Season 14: Reap & Sow
+- [ ] Season 15: Oil & Dirt
+- [ ] Season 16: High Voltage
+- [ ] Season 17: Repair & Rescue
+- [ ] Season 18: Patch & Power
+- [ ] Season 19: Research & Restore
 
-- Year 1 Pass
-- Year 2 Pass
-- Year 3 Pass
-- Year 4 Pass
+## Truck Packs & Vehicle DLCs
 
-## Expansion Categories
+- [ ] Navistar 5000-MV Tractor
+- [ ] Western Star 49X
+- [ ] GMC Brigadier
+- [ ] TATRA Dual Pack
+- [ ] Jeep Dual Pack
+- [ ] Land Rover Dual Pack
+- [ ] Crocodile Pack
+- [ ] Rezvani Hercules
+- [ ] Western Star Wolf Pack
+- [ ] The Mastodon
+- [ ] Kenworth W990
+- [ ] Kenworth Dual Pack
+- [ ] The Atom
+- [ ] Rezvani Tank
+- [ ] Mack Dual Pack
+- [ ] Freightliner & Western Star Dual Pack
+- [ ] Dragon Wagons Dual Pack
+- [ ] Mercedes-Benz Trucks Dual Pack 1
+- [ ] Mercedes-Benz Trucks Dual Pack 2
 
-- New map regions
-- Vehicle packs
-- Cosmetic content
-- Mission and contract expansions
-- Future officially released DLCs
+## Other Vehicle & Cosmetic Packs
+
+- [ ] High Roller Pack
+- [ ] Clasico Pack
+- [ ] Anniversary DLC
+- [ ] Burning Bright Vinyl Wrap Pack
+- [ ] Save the Day Vinyl Wrap Pack
+- [ ] Salt of the Earth Vinyl Wrap Pack
+- [ ] Pathfinders Vinyl Wrap Pack
+- [ ] Jack of All Treads Tire Pack
+- [ ] Loaded Dice Vinyl Wrap
+- [ ] Scorched Vinyl Wrap
+- [ ] True Colors Vinyl Wrap
+- [ ] Sabertooth Livery
 
 ---
 
